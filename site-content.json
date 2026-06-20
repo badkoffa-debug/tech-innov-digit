@@ -1,0 +1,115 @@
+{
+  "updatedAt": "2026-06-20T00:00:00.000Z",
+  "trainings": [
+    {
+      "id": "entrepreneuriat",
+      "title": "Formation en entrepreneuriat",
+      "category": "Entrepreneuriat",
+      "duration": "4 semaines",
+      "priceOnline": "45 000 FCFA",
+      "pricePresentiel": "50 000 FCFA",
+      "mode": "Présentiel / en ligne",
+      "level": "Débutant à intermédiaire",
+      "description": "Apprenez à structurer une idée, valider une opportunité, préparer une offre et lancer une activité avec méthode.",
+      "program": [
+        "Idée et positionnement",
+        "Modèle économique",
+        "Plan d'action",
+        "Suivi de croissance"
+      ],
+      "published": true
+    },
+    {
+      "id": "marketing-digital",
+      "title": "Marketing digital pour entreprises",
+      "category": "Marketing digital",
+      "duration": "3 semaines",
+      "priceOnline": "40 000 FCFA",
+      "pricePresentiel": "45 000 FCFA",
+      "mode": "Présentiel / en ligne",
+      "level": "Débutant",
+      "description": "Maîtrisez les bases pour attirer des clients, organiser votre communication et mesurer vos résultats.",
+      "program": [
+        "Stratégie digitale",
+        "Tunnel de conversion",
+        "Publicité sponsorisée",
+        "Mesure des performances"
+      ],
+      "published": true
+    },
+    {
+      "id": "creation-contenu-smartphone",
+      "title": "Création de contenu avec smartphone",
+      "category": "Création de contenu",
+      "duration": "2 semaines",
+      "priceOnline": "30 000 FCFA",
+      "pricePresentiel": "35 000 FCFA",
+      "mode": "Présentiel / en ligne",
+      "level": "Tous niveaux",
+      "description": "Créez des vidéos, réels et visuels plus professionnels pour Facebook, Instagram et WhatsApp Business.",
+      "program": [
+        "Script court",
+        "Tournage mobile",
+        "Montage simple",
+        "Calendrier de publication"
+      ],
+      "published": true
+    },
+    {
+      "id": "site-web-vitrine",
+      "title": "Création de site web vitrine",
+      "category": "Développement web",
+      "duration": "6 semaines",
+      "priceOnline": "75 000 FCFA",
+      "pricePresentiel": "85 000 FCFA",
+      "mode": "Présentiel / en ligne",
+      "level": "Débutant motivé",
+      "description": "Apprenez à créer une page professionnelle, responsive et prête à présenter une activité.",
+      "program": [
+        "Structure HTML",
+        "Design CSS",
+        "Responsive",
+        "Mise en ligne"
+      ],
+      "published": true
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "presence-digitale-togo",
+      "title": "Comment bâtir une présence digitale crédible au Togo",
+      "category": "Marketing digital",
+      "publishedAt": "2026-06-20",
+      "author": "Koffitsè Eddy BADOHOUN",
+      "image": "",
+      "excerpt": "Les fondations indispensables pour transformer une présence en ligne en levier commercial.",
+      "keywords": "Marketing digital au Togo, création de contenu au Togo, visibilité digitale",
+      "content": "Une présence digitale crédible commence par une identité claire, des contenus réguliers et une offre bien présentée.\n\nPour inspirer confiance, une entreprise doit harmoniser son logo, ses visuels, ses messages et ses canaux de contact. Le site web, les réseaux sociaux et WhatsApp doivent travailler ensemble.",
+      "published": true
+    },
+    {
+      "id": "business-plan-financement",
+      "title": "Business plan : les éléments qui rassurent un financeur",
+      "category": "Entrepreneuriat",
+      "publishedAt": "2026-06-20",
+      "author": "Koffitsè Eddy BADOHOUN",
+      "image": "",
+      "excerpt": "Objectifs, marché, modèle économique et projections : les points clés à préparer.",
+      "keywords": "Rédaction de business plan, formation en entrepreneuriat, dossier de financement",
+      "content": "Un bon business plan doit expliquer clairement le problème, la solution, les clients, les revenus et les dépenses.\n\nLe financeur doit comprendre comment le projet gagne de l'argent, comment il évolue et pourquoi le porteur de projet peut réussir.",
+      "published": true
+    },
+    {
+      "id": "site-web-entreprise",
+      "title": "Pourquoi un site web reste essentiel pour une entreprise",
+      "category": "Développement web",
+      "publishedAt": "2026-06-20",
+      "author": "Koffitsè Eddy BADOHOUN",
+      "image": "",
+      "excerpt": "Réseaux sociaux, référencement local et confiance client : le site web reste une base solide.",
+      "keywords": "Création de sites web au Togo, développement web à Kpalimé, site vitrine",
+      "content": "Les réseaux sociaux sont utiles, mais un site web donne une adresse professionnelle permanente à votre activité.\n\nIl permet de présenter vos services, vos contacts, vos réalisations et vos preuves de confiance dans un espace que vous contrôlez.",
+      "published": true
+    }
+  ]
+}
