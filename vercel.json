@@ -1,0 +1,25 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "rewrites": [
+    {
+      "source": "/admin-techinnov",
+      "destination": "/admin-techinnov/index.html"
+    },
+    {
+      "source": "/admin-techinnov/",
+      "destination": "/admin-techinnov/index.html"
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        }
+      ]
+    }
+  ]
+}

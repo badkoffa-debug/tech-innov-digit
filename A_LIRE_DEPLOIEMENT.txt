@@ -1,0 +1,19 @@
+Envoyez le CONTENU de ce dossier sur GitHub.
+
+Sur la première page du dépôt GitHub, vous devez voir exactement :
+
+admin-techinnov
+index.html
+vercel.json
+A_LIRE_DEPLOIEMENT.txt
+
+Important :
+- N'envoyez pas le fichier ZIP dans GitHub.
+- N'envoyez pas le dossier VERCEL_DEPLOIEMENT_FINAL lui-même.
+- Ouvrez le dossier VERCEL_DEPLOIEMENT_FINAL, sélectionnez tout ce qui est dedans, puis envoyez.
+
+Après publication sur Vercel :
+- Site public : https://votre-site.vercel.app/
+- Admin : https://votre-site.vercel.app/admin-techinnov/
+
+Code admin : TECH2026
