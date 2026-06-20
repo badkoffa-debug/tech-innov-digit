@@ -1,0 +1,8 @@
+.next
+.next-production
+node_modules
+out
+dist
+.env*
+!.env.example
+*.log
